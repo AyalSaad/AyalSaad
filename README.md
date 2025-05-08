@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer & Full Stack Developer** with a formal dipl
 
 ## 🌐 Let's Connect!
 - Portfolio: [ayalsaad.com](https://ayalsaad.com)
-- LinkedIn: [linkedin.com/in/ayalsaad](www.linkedin.com/in/ayal-saad-364860351)
+- LinkedIn: [linkedin.com/in/ayal-saad-364860351](www.linkedin.com/in/ayal-saad-364860351)
 - Email: ayalsaad0@gmail.com
 
 ---
